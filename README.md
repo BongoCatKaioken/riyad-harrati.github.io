@@ -1,2 +1,10 @@
 # riyad-harrati.io
 voici mon site
+<html>
+	<head>
+		<title>RIYAD HARRATI 4TID</title>
+	</head>
+	<body>
+		<h1>je suis publier en ligne</h1>
+	</body>
+</html>
